@@ -57,10 +57,3 @@ https://github.com/user-attachments/assets/902fd7bd-2a36-4842-8f86-638efb3fb9c5
 
 ---
 
-## 🚀 How to Use
-
-```bash
-# Clone this repository
-git clone https://github.com/yourusername/button-in-html.git
-
-# Open index.html in your browser
