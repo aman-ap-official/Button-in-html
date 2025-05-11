@@ -1,30 +1,66 @@
-# Button-in-html
-Button Design
+<h1 align="center">🎨 Button Effects in HTML & CSS</h1>
 
-# Fizzy Button
+<p align="center">
+  <b>A collection of modern, animated, and stylish button designs using pure HTML & CSS</b>
+</p>
+
+<p align="center">
+  ⚡ Interactive UI | ✨ Hover Effects | 🎯 No JavaScript Needed
+</p>
+
+---
+
+## 📂 Project Structure
+
+- 🧪 Pure HTML/CSS buttons
+- ⚡ CSS animations and transitions
+- 💎 Modern UI styles (glassmorphism, 3D, neon, etc.)
+- 🖼️ Live previews included below
+
+---
+
+## 🔘 Button Showcase
+
+### 🧃 Fizzy Button
 
 https://github.com/user-attachments/assets/a2f7b283-3acf-4866-a5f2-5cbec5c780a1
 
-# new
+---
 
+### 🆕 Modern Glass Button
 
 https://github.com/user-attachments/assets/be15541c-57b3-454b-a3c1-80fe4511b431
 
-# Animated Glowing Button with Hover
+---
 
+### 🌟 Animated Glowing Button (Hover)
 
 https://github.com/user-attachments/assets/12f00d4b-56ad-44b4-99c1-95151bf53c79
 
-# Animated Floating Button
+---
 
+### 🪄 Floating Button with Animation
 
 https://github.com/user-attachments/assets/5c8ea89f-d624-47fc-a7c2-6bf8ea56ba5a
 
-# 3D Button with Hover Effect
+---
 
+### 🧱 3D Button Hover Effect
 
 https://github.com/user-attachments/assets/7c7eb8b9-1fd6-4756-91fb-80f8b5228784
 
-# Button Hover 
+---
+
+### 🔄 Minimal Button Hover Effect
 
 https://github.com/user-attachments/assets/902fd7bd-2a36-4842-8f86-638efb3fb9c5
+
+---
+
+## 🚀 How to Use
+
+```bash
+# Clone this repository
+git clone https://github.com/yourusername/button-in-html.git
+
+# Open index.html in your browser
